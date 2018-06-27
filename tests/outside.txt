@@ -1,0 +1,5 @@
+Outside
+Google,www.google.com,,443
+Amazon,www.amazon.com,,80
+DNS fail,com.foobar,,80
+

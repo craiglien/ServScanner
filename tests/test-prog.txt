@@ -1,0 +1,7 @@
+Testing
+localhost ssh,localhost,127.0.0.1,22
+localhost telnet,localhost,127.0.0.1,23
+localhost web,localhost,127.0.0.1,80
+timeout,128.0.0.1,128.0.0.1,22
+nop,,,
+
